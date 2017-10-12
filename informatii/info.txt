@@ -1,0 +1,3 @@
+1. dupa ce am instalat in Mac ultima varianta de Ionic Cli [sudo npm install -g ionic@latest], am creat aplicatia cu comanda [sudo ionic start jwt blank]. Deci n-am mai pus la sfarsit --v2....nu mai e nevoie de acum inainte....
+
+2.
